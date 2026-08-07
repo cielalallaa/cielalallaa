@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a Bachelor of Science in Information Technology (BSIT) student passionate about building web applications.<br><br>Interests:<br><br>• Web Development<br>• Graphics Designs<br>• Mobile Application Development<br>• Continuous Learning<br><br>✨ I love turning ideas into useful web applications.<br>📫 Always open to learning, collaborating, and creating meaningful projects.<br>
+💻 I'm a Bachelor of Science in Information Technology (BSIT) student passionate about building web applications.<br><br>Interests:<br><br>• Web Development<br>• Graphic Designs<br>• Mobile Application Development<br>• Continuous Learning<br><br>✨ I love turning ideas into useful web applications.<br>📫 Always open to learning, collaborating, and creating meaningful projects.<br>
 
 
 ## 🌐 Socials:
