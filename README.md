@@ -76,10 +76,9 @@ I'm interested in expanding my knowledge and gaining more experience in:
 
 Here are some of the certifications and training I have completed as part of my continuous learning journey.
 
-**Certifications:**
+**Cloud Computing Essentials** 
+![image alt](
 
-- 🐍 **Python Certificate**  
-  [View Certificate](./certificates/https://github.com/cielalallaa/cielalallaa/blob/bedb02778c3f9935403dc92dd165063fd29815fd/certificates/AI%20Prompts%20101.pdf)
 
 
 ---
