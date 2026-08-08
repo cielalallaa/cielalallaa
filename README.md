@@ -79,6 +79,20 @@ Here are some of the certifications and training I have completed as part of my 
 ## AWS SimuLearn: Cloud Computing Essentials
 ![image alt](https://github.com/cielalallaa/cielalallaa/blob/947fb116a9279c98c82185520f73afc49062312d/Cloud%20Computing%20Essentials.png)
 
+## Network Defense
+![image alt](https://github.com/cielalallaa/cielalallaa/blob/ba800be6170b5363c90e03e5e51948c34faa374f/Network%20Defense.png)
+
+## Network Addressing and Basic Troubleshooting
+![image alt](https://github.com/cielalallaa/cielalallaa/blob/ba800be6170b5363c90e03e5e51948c34faa374f/Network%20Addressing%20and%20Basic%20Troubleshooting.png)
+
+## AWS SimuLearn: Computing Solutions
+![image alt](https://github.com/cielalallaa/cielalallaa/blob/ba800be6170b5363c90e03e5e51948c34faa374f/Computing%20Solutions.png)
+
+## Computer Hardware Basics
+![image alt](https://github.com/cielalallaa/cielalallaa/blob/ba800be6170b5363c90e03e5e51948c34faa374f/Computer%20Hardware%20Basics.png)
+
+## Networking Basics
+![image alt](https://github.com/cielalallaa/cielalallaa/blob/13fc306587f1e7251c2172a05ecc86e63293965e/Networking%20Basics.png)
 
 
 ---
