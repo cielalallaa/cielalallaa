@@ -6,10 +6,10 @@
 
 **Interests:**
 
-* 🌐 Web Development
-* 🎨 Graphic Design
-* 📱 Mobile Application Development
-* 📚 Continuous Learning
+* Web Development
+* Graphic Design
+* Mobile Application Development
+* Continuous Learning
 
 📫 Always open to learning, collaborating, and creating meaningful projects.
 
@@ -21,11 +21,11 @@ My goal is to build a career in the IT industry where I can use my technical and
 
 I aim to:
 
-* 💻 Improve my web and software development skills
-* 🎨 Improve my UI/UX and design skills
-* 🚀 Build real-world applications and projects
-* 🤝 Gain experience through teamwork and collaboration
-* 📚 Continuously learn new technologies and development tools
+* Improve my web and software development skills
+* Improve my UI/UX and design skills
+* Build real-world applications and projects
+* Gain experience through teamwork and collaboration
+* Continuously learn new technologies and development tools
 
 ---
 
@@ -51,11 +51,9 @@ I aim to:
 
 ### 🛠️ Tools & Platforms
 
-* Git
 * GitHub
 * Visual Studio Code
 * Cisco
-* Cloud Platforms
 
 ---
 
@@ -63,14 +61,14 @@ I aim to:
 
 I'm interested in expanding my knowledge and gaining more experience in:
 
-* ⚛️ React.js
-* 📱 Flutter
-* 🐍 Advanced Python
-* 🗄️ Advanced Database Management
-* 🔌 REST APIs
-* ☁️ Cloud Computing
-* 🎨 Advanced UI/UX Design
-* 🚀 Full-Stack Web Development9i
+* React.js
+* Flutter
+* Advanced Python
+* Advanced Database Management
+* REST APIs
+* Cloud Computing
+* Advanced UI/UX Design
+* Full-Stack Web Development9i
 
 ---
 
@@ -96,10 +94,11 @@ Currently continuing my learning journey and working toward earning certificatio
 * CSS
 * JavaScript
 * MySQL
+* XAMPP
 
 ### 🧴 Her Perfume — E-Commerce Website
 
-**Her Perfume** is an academic e-commerce project focused on selling perfumes through a web-based platform. The project was created to apply web development concepts and design a user-friendly online shopping experience
+**Her Perfume** is an academic e-commerce project focused on selling perfumes through a web-based platform. The project was created to apply web development concepts and design a user-friendly online shopping experience.
 
 **Technologies Used:**
 
@@ -107,6 +106,7 @@ Currently continuing my learning journey and working toward earning certificatio
 * CSS
 * JavaScript
 * MySQL
+* XAMPP
 
 ---
 
