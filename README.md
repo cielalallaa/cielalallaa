@@ -1,8 +1,6 @@
-# 👋🏻 Hi, I'm Shiella Mae Rico!
-
 ## 👧🏻 About Me:
 
-💻 I'm a **Bachelor of Science in Information Technology (BSIT)** student passionate about building web applications.
+💻 I'm a **Bachelor of Science in Information Technology (BSIT)** student passionate about designing web applications.
 
 ✨ I enjoy turning ideas into useful and creative web applications while continuously improving my technical and design skills.
 
@@ -24,7 +22,7 @@ My goal is to build a career in the IT industry where I can use my technical and
 I aim to:
 
 * 💻 Improve my web and software development skills
-* 🎨 Develop my UI/UX and design skills
+* 🎨 Improve my UI/UX and design skills
 * 🚀 Build real-world applications and projects
 * 🤝 Gain experience through teamwork and collaboration
 * 📚 Continuously learn new technologies and development tools
@@ -51,12 +49,6 @@ I aim to:
 * Canva
 * Adobe Photoshop
 
-### 🗄️ Database & Development
-
-* MySQL
-* Basic Backend Development
-* CRUD Operations
-
 ### 🛠️ Tools & Platforms
 
 * Git
@@ -78,7 +70,7 @@ I'm interested in expanding my knowledge and gaining more experience in:
 * 🔌 REST APIs
 * ☁️ Cloud Computing
 * 🎨 Advanced UI/UX Design
-* 🚀 Full-Stack Web Development
+* 🚀 Full-Stack Web Development9i
 
 ---
 
@@ -94,28 +86,6 @@ Currently continuing my learning journey and working toward earning certificatio
 
 ## 📚 Academic Projects:
 
-### 📖 Study Shelf — Educational Resource Platform
-
-**Study Shelf** is an educational resource platform designed to provide students with convenient access to study materials such as e-books, notes, videos, lessons, and academic resources.
-
-**Technologies Used:**
-
-* Python
-* HTML
-* CSS
-* JavaScript
-
-**My Contributions:**
-
-* 💻 Frontend Development
-* 🎨 UI/Design
-* 📝 Documentation
-* 🔄 CRUD Operations
-
-🔗 [View Study Shelf Repository](YOUR_STUDY_SHELF_REPOSITORY_LINK)
-
----
-
 ### 👔 Mode Seven — E-Commerce Website
 
 **Mode Seven** is a web-based e-commerce project focused on men's apparel. It was developed as an academic project to apply web development concepts and create an online shopping platform.
@@ -125,9 +95,18 @@ Currently continuing my learning journey and working toward earning certificatio
 * HTML
 * CSS
 * JavaScript
-* Python
+* MySQL
 
-🔗 [View Mode Seven Repository](YOUR_MODE_SEVEN_REPOSITORY_LINK)
+### 🧴 Her Perfume — E-Commerce Website
+
+**Her Perfume** is an academic e-commerce project focused on selling perfumes through a web-based platform. The project was created to apply web development concepts and design a user-friendly online shopping experience
+
+**Technologies Used:**
+
+* PHP
+* CSS
+* JavaScript
+* MySQL
 
 ---
 
