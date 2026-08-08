@@ -74,11 +74,13 @@ I'm interested in expanding my knowledge and gaining more experience in:
 
 ## 📜 Certifications:
 
-Currently continuing my learning journey and working toward earning certifications related to Information Technology and software development.
+Here are some of the certifications and training I have completed as part of my continuous learning journey.
 
 **Certifications:**
 
-* 📌 Certifications will be added as I earn them.
+- 🐍 **Python Certificate**  
+  [View Certificate](./certificates/AI Prompts 101.pdf)
+
 
 ---
 
