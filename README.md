@@ -94,6 +94,8 @@ Here are some of the certifications and training I have completed as part of my 
 ## Networking Basics
 ![image alt](https://github.com/cielalallaa/cielalallaa/blob/13fc306587f1e7251c2172a05ecc86e63293965e/Networking%20Basics.png)
 
+## Python Essentials 1
+![image alt](https://github.com/cielalallaa/cielalallaa/blob/1b747cf7cb7274d8560dfcc62838a178a6bae961/Python%20Essential%201.png)
 
 ---
 
