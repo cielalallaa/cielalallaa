@@ -76,8 +76,8 @@ I'm interested in expanding my knowledge and gaining more experience in:
 
 Here are some of the certifications and training I have completed as part of my continuous learning journey.
 
-**Cloud Computing Essentials** 
-![image alt](
+## AWS SimuLearn: Cloud Computing Essentials
+![image alt](https://github.com/cielalallaa/cielalallaa/blob/947fb116a9279c98c82185520f73afc49062312d/Cloud%20Computing%20Essentials.png)
 
 
 
